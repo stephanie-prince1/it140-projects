@@ -1,0 +1,14 @@
+                           🟨 [5] Frozen Peak Pass
+                               Item: Ice Gem
+                                      |
+                                      |
+🟨 [2] Whispering Forest ---- 🟪 [4] Ancient Dragon Temple ---- 🟨 [6] Treasure Vault
+    Item: Healing Potion           Item: Temple Key               Item: Crystal Shield
+            |                              |                              |
+            |                              |                              |
+🟩 [1] Village of Ashenvale ---- 🟨 [3] Cavern of Embers ---- 🟪 [7] Shadow Dungeon
+       Start Room                    Item: Flame Sword             Item: Crystal Flame
+                                                                          |
+                                                                          |
+                                                            🟥 [8] Dragon Lord’s Throne Room
+                                                                 Villain: Drakonis

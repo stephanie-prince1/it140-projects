@@ -1,0 +1,122 @@
+[5] Frozen Peak Pass
+
+                              Item: Ice Gem
+
+                                   |
+
+                                   |
+
+[2] Whispering Forest ---- [4] Ancient Dragon Temple ---- [6] Treasure Vault
+
+   Item: Healing Potion         Item: Temple Key             Item: Crystal Shield
+
+           |                           |                            |
+
+           |                           |                            |
+
+[1] Village of Ashenvale ---- [3] Cavern of Embers ---- [7] Shadow Dungeon
+
+       Start Room                Item: Flame Sword              Item: Crystal Flame
+
+                                                                  |
+
+                                                                  |
+
+                                                        [8] Dragon Lord's Throne Room
+
+                                                           Villain: Drakonis the Eternal
+Room Breakdown
+
+Room Number
+
+Room Name
+
+What’s There
+
+1
+
+Village of Ashenvale
+
+Starting point of the game
+
+2
+
+Whispering Forest
+
+Healing Potion
+
+3
+
+Cavern of Embers
+
+Flame Sword
+
+4
+
+Ancient Dragon Temple
+
+Temple Key
+
+5
+
+Frozen Peak Pass
+
+Ice Gem
+
+6
+
+Treasure Vault
+
+Crystal Shield
+
+7
+
+Shadow Dungeon
+
+Crystal Flame
+
+8
+
+Dragon Lord’s Throne Room
+
+Villain: Drakonis the Eternal
+
+Item Locations
+
+Item
+
+Location
+
+Healing Potion
+
+Whispering Forest
+
+Flame Sword
+
+Cavern of Embers
+
+Temple Key
+
+Ancient Dragon Temple
+
+Ice Gem
+
+Frozen Peak Pass
+
+Crystal Shield
+
+Treasure Vault
+
+Crystal Flame
+
+Shadow Dungeon
+
+Villain
+
+Villain
+
+Final Location
+
+Drakonis the Eternal
+
+Dragon Lord’s Throne Room

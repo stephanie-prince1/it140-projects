@@ -1,0 +1,44 @@
++-----------------------------+
+| 1. Village of Ashenvale     |
+| Start Room                  |
++-------------+---------------+
+              |
+              v
++-----------------------------+
+| 2. Whispering Forest        |
+| Item: Healing Potion        |
++-------------+---------------+
+              |
+              v
++-----------------------------+        +-----------------------------+
+| 3. Cavern of Embers         | -----> | 4. Ancient Dragon Temple   |
+| Item: Flame Sword           |        | Item: Temple Key           |
++-------------+---------------+        +-------------+---------------+
+              |                                      |
+              v                                      v
++-----------------------------+        +-----------------------------+
+| 5. Frozen Peak Pass         |        | 6. Treasure Vault          |
+| Item: Ice Gem              |        | Item: Crystal Shield       |
++-------------+---------------+        +-----------------------------+
+              |
+              v
++-----------------------------+
+| 7. Shadow Dungeon           |
+| Item: Crystal Flame         |
++-------------+---------------+
+              |
+              v
++-----------------------------+
+| 8. Dragon Lord's Throne Room|
+| Villain: Drakonis           |
++-----------------------------+
+
+Room	Purpose
+Village of Ashenvale	Starting point
+Whispering Forest	Find Healing Potion
+Cavern of Embers	Find Flame Sword
+Ancient Dragon Temple	Find Temple Key
+Frozen Peak Pass	Find Ice Gem
+Treasure Vault	Find Crystal Shield
+Shadow Dungeon	Recover Crystal Flame
+Dragon Lord’s Throne Room	Final battle with Drakonis
